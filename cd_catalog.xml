@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="cd_catalog.xsl" ?>
+
+<CATALOG>
+
+<CD>
+<GAME>007 Legends </GAME>
+<DEVELOPER>Eurocom, Activision</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>007: Quantum of Solace</GAME>
+<DEVELOPER>Treyarch, Beenox</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>3D Monster Chase</GAME>
+<DEVELOPER>Romik</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Ace of Spades</GAME>
+<DEVELOPER>Ben Aksoy</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Alcatraz: Prison Escape</GAME>
+<DEVELOPER>Zombie Studios</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Apex Legends</GAME>
+<DEVELOPER>Respawn Entertainment</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Battlefield V </GAME>
+<DEVELOPER>Digital Illusions CE</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Call of Duty: Black Ops 4</GAME>
+<DEVELOPER> Treyarch</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Crysis 3 </GAME>
+<DEVELOPER>Crytek</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Far Cry 5</GAME>
+<DEVELOPER>	Ubisoft Montreal</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Outtrigger</GAME>
+<DEVELOPER>	Sega-AM2</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Project I.G.I.</GAME>
+<DEVELOPER>	Innerloop Studios</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Resident Evil: Dead Aim </GAME>
+<DEVELOPER>Capcom</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Sniper: Ghost Warrior 3 </GAME>
+<DEVELOPER>	CI Games</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>Star Wars: Dark Forces </GAME>
+<DEVELOPER>	LucasArts</DEVELOPER>
+</CD>
+
+<CD>
+<GAME>SWAT: Global Strike Team </GAME>
+<DEVELOPER>	Argonaut Games</DEVELOPER>
+</CD>
+</CATALOG>
